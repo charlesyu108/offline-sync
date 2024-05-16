@@ -1,6 +1,6 @@
 {
   "name": "@charlesyu108/offline-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Solution for offline-first web apps that need to sync to server-side persistence. Built on IndexedDB",
   "main": "dist/bundle.js",
   "scripts": {
@@ -34,4 +34,3 @@
     "ts-loader": "^8.0.0"
   }
 }
-
